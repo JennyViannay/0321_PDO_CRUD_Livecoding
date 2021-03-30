@@ -1,0 +1,3 @@
+define("DSN", "mysql:host=localhost;dbname=db_nane");
+define("USER", "user");
+define("PASS", "password");
